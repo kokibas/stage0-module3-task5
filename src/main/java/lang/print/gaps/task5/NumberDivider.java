@@ -1,7 +1,7 @@
 package lang.print.gaps.task5;
 
 public class NumberDivider {
-    void divide(int toBeDivided) {
+    void divide(float toBeDivided) {
         NumberDivider divider = new NumberDivider() ;
         toBeDivided = toBeDivided / 5;
 
